@@ -1,6 +1,6 @@
 # Stonks simulator - trading simulator
 
-#Installation
+# Installation
 
 ## Front-end installation
 
