@@ -1,5 +1,7 @@
 # Stonks simulator - trading simulator
 
+#Installation
+
 ## Front-end installation
 
 ### At main folder run:
